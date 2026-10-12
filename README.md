@@ -20,14 +20,6 @@ Each topic has two folders: the lab (worked in class) and the exercise (solved i
 | 19 | Testing | Unit tests with `unittest`, test cases and assertions |
 
 
-## Running
-
-Each exercise is a standalone script:
-
-```bash
-python 05_inheritance/<file_name>.py
-```
-
 Tests can be run with:
 
 ```bash
