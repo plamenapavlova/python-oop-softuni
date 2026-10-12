@@ -18,10 +18,3 @@ Each topic has two folders: the lab (worked in class) and the exercise (solved i
 | 15–16 | Iterators and generators | `__iter__` / `__next__`, `yield`, generator expressions |
 | 17–18 | Decorators | Function decorators, decorators with arguments, `functools.wraps` |
 | 19 | Testing | Unit tests with `unittest`, test cases and assertions |
-
-
-Tests can be run with:
-
-```bash
-python -m unittest discover 19_testing
-```
